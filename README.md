@@ -3,6 +3,9 @@
 * Maven
 
 # How to run the code
+https://www.geektrust.com/coding/detailed/doremi-subscription
+<img width="1533" alt="Screenshot 2023-07-11 at 7 36 57 PM" src="https://github.com/bhoomikars/DoReMi-Subscription/assets/57263117/98a265d3-254e-4805-a5ee-16fe5be5cfd8">
+
 
 We have provided scripts to execute the code. 
 
